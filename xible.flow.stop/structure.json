@@ -1,0 +1,10 @@
+{
+  "name": "xible.flow.stop",
+  "type": "action",
+  "description": "Stops all instances for this flow.",
+  "inputs": {
+    "trigger": {
+      "type": "trigger"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xible-np-xible",
+  "version": "0.1.0",
+  "description": "Nodepack for XIBLE to interact with the XIBLE instance itself, such as the flow, instances and error handling on them.",
+  "license": "MIT",
+  "homepage": "https://xible.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spectrumbroad/xible-np-xible"
+  },
+  "bugs": {
+    "url": "https://github.com/spectrumbroad/xible-np-xible/issues",
+    "email": "bugs@xible.io"
+  },
+  "keywords": [
+    "xible",
+    "nodepack"
+  ]
+}
