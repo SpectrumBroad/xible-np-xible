@@ -1,6 +1,6 @@
 {
   "name": "xible-np-xible",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nodepack for XIBLE to interact with the XIBLE instance itself, such as the flow, instances and error handling on them.",
   "license": "MIT",
   "homepage": "https://xible.io",

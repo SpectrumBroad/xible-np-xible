@@ -1,10 +1,11 @@
 {
-  "name": "xible.flow.onstart",
+  "name": "xible.flow.on-start",
   "type": "event",
   "description": "Triggered whenever this flow is started.",
   "outputs": {
     "trigger": {
-      "type": "trigger"
+      "type": "trigger",
+      "description": "Triggered whenever this flow is started."
     }
   }
 }
